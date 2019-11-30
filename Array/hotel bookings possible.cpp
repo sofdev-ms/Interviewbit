@@ -1,4 +1,4 @@
-//https://www.interviewbit.com/problems/hotel-bookings-possible/
+//https://www.interviewbit.com/problems/hotel-bookings-possible/N
 
 bool Solution::hotel(vector<int> &arrive, vector<int> &depart, int K) {
     sort(arrive.begin() , arrive.end());
